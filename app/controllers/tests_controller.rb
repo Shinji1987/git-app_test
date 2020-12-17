@@ -1,4 +1,4 @@
 class TestsController < ApplicationController
-  def index
+  def index   ＃index悪書を宣言している
   end
 end
